@@ -1,0 +1,7 @@
+{
+  "name": "PosiPsych AI Assistant",
+  "description": "A conversational AI tool for positive psychology professionals to assist in diagnosis, treatment strategies, and patient follow-up using real-time voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
